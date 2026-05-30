@@ -300,6 +300,10 @@ docker compose up --build
 
 ---
 
+# Video Link
+
+https://www.youtube.com/watch?v=YYHt6JBGbjg
+
 # Key Learning Outcomes
 
 This project demonstrates:
